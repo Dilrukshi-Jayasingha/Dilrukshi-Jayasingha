@@ -1,40 +1,36 @@
 # Hi there 👋
+
 I am Dilrukshi Jayasingha, an enthusiastic undergraduate student pursuing a degree in Software Engineering. My passion for coding and problem-solving drives me to constantly learn and explore new technologies.
 
 **Interests**
+
 💻 Software Development
+
 🧩 Problem Solving
+
 🌐 Web Development
+
 🤖 Artificial Intelligence and Machine Learning
+
 📱 Mobile App Development
 
-**Skills **
-Java
 
-Angular
 
-Git
+**Skills**
 
-HTML
+**Programming Languages**: Python, Java, C++, JavaScript,c,
 
-CSS
+**Web Technologies**: HTML, CSS, React, Node.js,Angular
 
-JavaScript
+**Databases**: MySQL, MongoDB
 
-React
-
-NodeJS
-
-Python
-
-C++
-
-GitHub
+**Tools**: Github, Dreamweaver, VS Code, figma
 
 
 
 **Education**
-👉 University of Bedfordshire- Bachelor of Software Engineering (2021-2025)
+
+🎓 **University of Bedfordshire**- Bachelor of Software Engineering (2021-2025)
 
 
 **Projects**
