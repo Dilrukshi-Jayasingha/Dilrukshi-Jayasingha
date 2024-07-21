@@ -49,8 +49,7 @@ I am Dilrukshi Jayasingha, an enthusiastic undergraduate student pursuing a degr
 **Contact Me**
 📧 dilrujayasingh@gmail.com 
 
-💼 www.linkedin.com/in/
-dilrukshi-jayasinghe
+💼 www.linkedin.com/in/dilrukshi-jayasinghe
 
 
 
