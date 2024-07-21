@@ -1,15 +1,14 @@
 # Hi there 👋
 I am Dilrukshi Jayasingha, an enthusiastic undergraduate student pursuing a degree in Software Engineering. My passion for coding and problem-solving drives me to constantly learn and explore new technologies.
 
-##Interests
+**Interests**
 💻 Software Development
 🧩 Problem Solving
 🌐 Web Development
 🤖 Artificial Intelligence and Machine Learning
 📱 Mobile App Development
 
-
-###Languages and Tools
+**Skills **
 Java
 
 Angular
@@ -34,15 +33,15 @@ GitHub
 
 
 
-####Education
+**Education**
 👉 University of Bedfordshire- Bachelor of Software Engineering (2021-2025)
 
 
-#####Projects
+**Projects**
 
 
 
-#####Contact Me
+**Contact Me**
 📧 dilrujayasingh@gmail.com 
 💼 www.linkedin.com/in/
 dilrukshi-jayasinghe
